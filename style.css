@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    background: rgb(207, 207, 207);
+}
+
+main {
+    text-align: center;
+}
+
+main h1 {
+    font-size: 2rem;
+    font-weight: 400;
+}
